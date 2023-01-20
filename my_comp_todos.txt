@@ -1,0 +1,10 @@
+x) Toggleterm finish install (watch chris@machine vid)
+x) Nvim-Tree finish install (watch chris@machine vid), figure out toggle 
+3) Figure out which key for plugins like Nvim-Tree.
+x) git/gh push changes to gh and pull changes on bobnet1 etc.
+x) add rust to bobnet1.
+6) clean up python install on bobnet1 
+x) Nvimtree git integration (add, commit)
+8) What to do if you get and error? (red x, underline in red)
+9) Lazygit
+10) Assembler LSP
